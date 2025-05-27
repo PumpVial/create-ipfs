@@ -65,7 +65,7 @@ Create an Interplanetary File System storage object, which can be used to launch
 ---
 
 Need help? Hop in our Discord: https://discord.gg/WBmZss3jQq  
-Official Docs: https://pumpvial.com/https/fund-wallets
+Official Docs: https://pumpvial.com/https/create-ipfs
 
 ---
 
