@@ -14,7 +14,7 @@ const payload = {
 //////////////////////////////// END ////////////////////////////////////////
 
 const createIPFS = async () => {
-  const URL = "https://pumpvial.com/api/create-ipfs";
+  const URL = "https://api.pumpvial.com/create-ipfs";
 
   try {
     const request = await axios.post(URL, payload, {
